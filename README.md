@@ -1,3 +1,3 @@
-- [x] test
-- [] test2
-- [] test3
+- [d] test
+- [ ] test2
+- [ ] test3
